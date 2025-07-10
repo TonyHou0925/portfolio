@@ -4,12 +4,12 @@ Welcome to my portfolio of academic, professional, and personal software project
 
 ---
 
-## CMU Coursework
-
-### Professional Projects (HP)
+## Professional Projects (HP)
 
 - [ARIMA](https://github.com/HP-Commodity-Planner-Tony/ARIMA)  
   ARIMA Model on Demand planning.
+
+## CMU Coursework
 
 ### 14-848 Cloud Infrastructure (CMU)
 
@@ -31,10 +31,3 @@ Welcome to my portfolio of academic, professional, and personal software project
   Android app + Java servlet + MongoDB + dashboard; integrates with BLS API.
 
 ---
-
-### Personal Projects
-
-*(Add your own personal projects here as they grow)*
-
-- [my-finance-tracker](#) — WIP  
-  A budgeting app built with Python + Flask
